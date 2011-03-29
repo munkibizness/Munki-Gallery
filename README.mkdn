@@ -1,7 +1,7 @@
-<h2>Read Me</h2><br />
+<h2>Read Me</h2>
 <br /><br />
 <b><u>Munki Gallery</u></b><br />
-<b>Project Lead and Founder:</b> Anthony Swanson<br />
+<b>Project Lead and Founder:</b> Anthony Swanson
 <br /><br />
 This project is developed under the GPL. If you have not read this file take time
-to do so it is in this repository with the readme.html file.
+to do so it is in this repository with the 'README.mkdn' file.
