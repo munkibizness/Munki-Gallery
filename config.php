@@ -1,19 +1,25 @@
 <?php
+/*
+ +-++-++-++-++-+
+ |M||u||n||k||i|
+ +-++-++-++-++-+
+ +-++-++-++-++-++-++-+
+ |G||a||L||L||e||r||y|
+ +-++-++-++-++-++-++-+
+ Developed by: Anthony Swanson
+ This products falls under use of the GPL license, if you received
+ a copy of this product without the license, please visit this url
+ for it: http://www.munkibizness.com/licenses.php
+*/
 // CONFIG.PHP
 
-// Below are the customizable variables for the script, you may edit 
-// them until you reach the part that says, "STOP CONFIGURATION HERE." 
-
-
-
-// BEGIN CONFIGURATION HERE
-
 // Use flat file system or MySQL Database (0 - MySQL, 1 - Flat File)
+// If this option is left blank you will automatically be placed on
+// using the flat file system.
 $mg_backend = "";
 
 // If you opted to use the Flat File system STOP CONFIGURATION HERE
-// otherwise, skip the next line and continue editing.
-if ($mg_backend == "1") die();
+// otherwise, skip to the next line(s) and continue editing.
 
 // Begin MySQL Database Information
 // MySQL Host Name 
